@@ -67,6 +67,7 @@ if(WITH_EXAMPLES)
             examples/blelogger.cc
             examples/bluetooth.cc
             examples/lescan_simple.cc
+            examples/undagrid.cc
             examples/temperature.cc)
 
     foreach (example_src ${EXAMPLES})
